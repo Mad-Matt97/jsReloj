@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&display=swap");
+
+body {
+  text-align: center;
+  font-family: "Signika Negative", sans-serif;
+  background-color: rgb(175, 245, 206);
+}
+
+.reloj {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  font-size: 70px;
+  background-color: rgb(104, 146, 238);
+  margin-left: 20%;
+  margin-right: 20%;
+  border-radius: 10rem;
+}
